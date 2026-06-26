@@ -6,3 +6,4 @@ function girish(){
 girish()
 
 console.log("hai")
+console.log("bye")
