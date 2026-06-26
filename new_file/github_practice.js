@@ -4,3 +4,5 @@ function girish(){
     console.log("hello")
 }
 girish()
+
+console.log("hai")
